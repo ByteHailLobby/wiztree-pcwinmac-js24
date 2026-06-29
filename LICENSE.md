@@ -1,4 +1,4 @@
-# 
+# 专业 WizTree 预设 Mac OS版 | 原生 WizTree 预设 PC Windows版。集成 自定义主题 和 文件同步，跨平台性能最大化。
 
 
 
